@@ -1,24 +1,24 @@
-# Quasar App (teste)
+# Quasar App (Teste Prático Fast Ponto - Front-End )
 
 A Quasar Framework app
 
 ## Install the dependencies
-```bash
+```css
 yarn
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
+```css
 quasar dev
 ```
 
 ### Lint the files
-```bash
+```css
 yarn run lint
 ```
 
 ### Build the app for production
-```bash
+```css
 quasar build
 ```
 
