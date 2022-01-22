@@ -143,10 +143,10 @@
 
         <q-step
           :name="6"
-          title="Sistema Operacional"
-          icon="desktop_windows"
-          active-icon="add_to_queue"
-          done-icon="dvr"
+          title="Finalizado"
+          icon="check"
+          active-icon="check"
+          done-icon="check"
           :done="step > 6"
         >
           <div class="row justify-center">
